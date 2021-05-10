@@ -1,6 +1,6 @@
 <?php 
 $pageTitle = "Personal Media Library" ;
-
+$section = null ;
 include("inc/header.php"); ?>
 	<div id="content">
 		<div class="section catalog random">
